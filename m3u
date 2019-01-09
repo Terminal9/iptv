@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png"ABC"I2.1.21230.zap2it.com"
+#EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png"ABC
 http://192.168.1.151:5004/auto/v2.1/live/lescobar/lescobar/823.ts
 #EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png"NBC HD
 http://192.168.1.151:5004/auto/v4.1/live/lescobar/lescobar/823.ts
