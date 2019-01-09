@@ -3,7 +3,7 @@
 http://192.168.1.151:5004/auto/v2.1/live/lescobar/lescobar/823.ts
 #EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png"NBC HD
 http://192.168.1.151:5004/auto/v4.1/live/lescobar/lescobar/823.ts
-#EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20367/s28719_h3_aa.png",FOX5 HD
+#EXTINF:-1, tvg-logo="https://livetv.wtvpc.com/wp-content/uploads/2017/09/wttg_live_online.png",FOX5 HD
 http://192.168.1.151:5004/auto/v5.1/live/lescobar/lescobar/823.ts
 #EXTINF:-1, tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png"FOX5 PLUS
 http://192.168.1.151:5004/auto/v20.1/live/lescobar/lescobar/823.ts
